@@ -5,6 +5,13 @@ html, body{
     height: 500px; /* popup height */
 }
 
+.container{
+    padding: 20px;
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+}
+
 #notepad{
     background-color: #adb5bd;
     width: 100%;
@@ -42,3 +49,5 @@ label{
 #delete{
     background-color: #dc3545;
 }
+
+
